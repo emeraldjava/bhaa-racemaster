@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module4"
+Attribute VB_Name = "CreateResults"
 Sub CreateResults()
 '
 ' This macro runs to Create the Combined Worksheet which is input to Race Master results calculation

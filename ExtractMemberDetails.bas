@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module3"
+Attribute VB_Name = "ExtractMemberDetails"
 Sub ExtractMemberDetails()
 '
 ' This macro runs from the BHAA Extract Worksheet

@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module6"
+Attribute VB_Name = "HomePage"
 Sub HomePage()
 
      'Declare all variables
